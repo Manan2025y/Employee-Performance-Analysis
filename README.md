@@ -1,2 +1,21 @@
-# Employee-Performance-Analysis
-This project teaches SQL skills by creating and analyzing an employee performance database. You’ll clean data, run exploratory analysis, and answer business questions on metrics like performance scores, training hours, and projects completed. Perfect for beginners seeking practical, real-world SQL experience.
+Project Overview
+Project Title: Employee Performance Analysis
+Level: Beginner
+Database: employee_performance_db
+
+This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze employee performance data. The project involves setting up an employee performance database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a strong foundation in SQL.
+
+Objectives
+Set up an employee performance database: Create and populate the database with provided employee performance data.
+
+Data Cleaning: Identify and remove any records with missing or invalid values.
+
+Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand employee performance trends.
+
+Business Analysis: Use SQL to answer specific business questions and derive insights from the performance data.
+
+Project Structure
+1. Database Setup
+Database Creation: The project starts by creating a database named employee_performance_db.
+
+Table Creation: A table named employee_performance is created to store the performance data. The table structure includes columns for employee ID, name, department, role, gender, age, hire date, review date, performance score, training hours, projects completed, and salary.
