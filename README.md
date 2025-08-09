@@ -204,4 +204,37 @@ ORDER BY total_orders DESC;
 
 ## End of Project
 
+---
+
+## Findings
+
+- **Customer Demographics:** Customers span a wide range of age groups, with purchases spread across categories like Clothing and Beauty.
+- **High-Value Transactions:** Multiple orders exceeded a total value of 1,000, suggesting premium or bulk purchases.
+- **Sales Trends:** Monthly breakdowns highlight fluctuations in sales, making it easier to pinpoint high-demand periods.
+- **Customer Insights:** Highlights the highest-spending customers and the most popular product categories.
+
+## Reports
+
+- **Sales Summary:** Comprehensive report covering overall sales figures, customer profiles, and performance by category.
+- **Trend Analysis:** Detailed look at sales patterns across months and work shifts.
+- **Customer Insights:** Overview of top customers and the number of unique buyers per category.
+
+## Conclusion
+
+This project offers a complete introduction to SQL for aspiring data analysts, including database setup, data cleaning, exploratory data analysis, and creating business-focused queries. The insights gained can help inform better decisions by uncovering patterns in sales, customer behavior, and product performance.
+
+## How to Use
+
+1. **Clone the Repository:** Download this repository from GitHub.
+2. **Initialize the Database:** Run the SQL script in `database_setup.sql` to create and populate the database.
+3. **Execute the Queries:** Use the queries in `analysis_queries.sql` to perform your analysis.
+4. **Customize and Explore:** Adapt the queries to investigate additional questions or different aspects of the dataset.
+
+---
+
+**Author – Manan**  
+This project is part of my personal portfolio, demonstrating SQL skills essential for data analyst roles. For questions, feedback, or potential collaborations, feel free to reach out.
+
+--===-=====END OF PROJECT========================
+
 
